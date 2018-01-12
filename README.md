@@ -1,6 +1,17 @@
 # Clustering time series with DTW in R
 
-Under construction...
+Time series clustering is the division of the time series into different groups based on the similarity between them, so that the similar time series are in the same group.
+
+## 1st step. Calculate the distance or similarity metric.
+
+  - Euclidean
+  - DTW (Dinamic Time Warping)
+
+## 2nd step. Apply clustering techniques.
+
+  - Partitional clustering
+  - Hierarchical clustering
+  - Fuzzy clustering
 
 ### References (websites with examples of time series clustering)
 
