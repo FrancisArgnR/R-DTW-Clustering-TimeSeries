@@ -1,4 +1,4 @@
-# R-DTW-Clustering-TimeSeries
+# Clustering time series with DTW in R
 
 ### References (websites with examples of time series clustering)
 
