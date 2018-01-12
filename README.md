@@ -1,5 +1,7 @@
 # Clustering time series with DTW in R
 
+Under construction...
+
 ### References (websites with examples of time series clustering)
 
 http://www.rdatamining.com/examples/time-series-clustering-classification
